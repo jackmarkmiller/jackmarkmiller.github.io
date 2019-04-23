@@ -6,12 +6,12 @@
 
 div{
     background-color: navy;
-    width: 20px;
+    width: 100px;
     float: left;
     padding: 5px;
 
 }
 h1{
     text-decoration-color: white;
-
+    font-size: medium;
 }
