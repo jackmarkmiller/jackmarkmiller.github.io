@@ -5,13 +5,15 @@
 }
 
 div{
-    background-color: navy;
-    width: 100px;
+    
     float: left;
-    padding: 5px;
+    padding: 25px;
+    background-color:white
 
 }
 h1{
-    text-decoration-color: white;
-    font-size: medium;
+    color: white;
+    font-size: 10pt;
+    background-color: navy;
+
 }
