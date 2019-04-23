@@ -6,3 +6,15 @@
 h1{
     color: lightgray;
 }
+
+div{
+    background-color: navy;
+    height: "30px";
+    
+}
+
+a{
+    color: white;
+    font-size: medium;
+
+}
