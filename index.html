@@ -8,17 +8,33 @@
 </head>
 <body>
 
-    <div class="top">
-        <a>Home</a>
-        <a>About</a>
-        <a>Projects</a>
-        <a>Skill Sets</a>
-        <a>Employment History</a>
-
-
+    <div id="Home" class="tabcontent">
+        <h1>Home</h1>
 
     </div>
-   
 
+    <div id="About" class="tabcontent">
+        <h1>About</h1>
+
+    </div>
+    <div id="Projects" class="tabcontent">
+        <h1>Projects</h1>
+
+    </div>
+    <div id="SkillSets" class="tabcontent">
+        <h1>Skill Sets</h1>
+
+    </div>
+    <div id="Employment" class="tabcontent">
+        <h1>Employment</h1>
+
+    </div>
+
+
+    <button class="tablink" onclick="openTab('Home',this,'red')" id="defaultOpen">Home</button>
+    <button class="tablink" onclick="openTab('About',this,'blue')" id="defaultOpen">About</button>
+    <button class="tablink" onclick="openTab('Projects',this,'green')" id="defaultOpen">Projects</button>
+    <button class="tablink" onclick="openTab('SkillSets',this,'purple')" id="defaultOpen">Skill Sets</button>
+    <button class="tablink" onclick="openTab('Employment',this,'yellow')" id="defaultOpen">Employment</button>
 </body>
 </html>
