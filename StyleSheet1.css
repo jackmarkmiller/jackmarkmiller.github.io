@@ -6,9 +6,9 @@
 
 div{
     background-color: navy;
-    height: "30px";
+    width: 20px;
     float: left;
-    padding: "5px";
+    padding: 5px;
 
 }
 h1{
