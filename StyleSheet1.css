@@ -36,6 +36,14 @@
     
 }
 
+#partners{
+    border-radius:50%;
+}
+
+#ou{
+    border-radius: 50%;
+}
+
 h2.Hello{
     text-align:center;
     color: white;
@@ -78,4 +86,33 @@ h2.Hello{
     margin-left: -95px;
     left: 50%;
     
+}
+#aboutme {
+    text-align: center;
+    color: #9eaf9c;
+}
+
+#aboutbody {
+    text-align: center;
+    color: #9eaf9c;
+}
+
+#about {
+    background-color: white;
+    padding: 20px;
+    width: 50%;
+    border-radius: 25px;
+    margin-top:40px;
+}
+
+#cap {
+    color: #9eaf9c;
+    font-size: 15pt;
+    text-align:center;
+}
+
+ul {
+    color: #9eaf9c;
+    text-align: center;
+    margin-left: -50px;
 }
