@@ -39,6 +39,43 @@
 h2.Hello{
     text-align:center;
     color: white;
-    font-size: 15px;
+    font-size: 25px;
 
+}
+
+#purpose1 {
+   background-color: white;
+   padding: 20px;
+   width: 50%;
+   border-radius: 25px;
+  
+}
+
+#purpose {
+    text-align: center;
+    color: #9eaf9c;
+}
+
+#Title {
+    color: #9eaf9c;
+    font-size: 15pt;
+}
+
+#Intro {
+    color: #9eaf9c;
+    font-size: 15pt;
+}
+
+#introduction {
+    text-align: center;
+    color: #9eaf9c;
+}
+
+#Hex{
+    position: fixed;
+    bottom: 0px;
+    color: white;
+    margin-left: -95px;
+    left: 50%;
+    
 }
