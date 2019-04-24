@@ -1,4 +1,10 @@
-﻿.topnav{
+﻿body {
+    background-image: url(https://external-preview.redd.it/VOKOSBqik9dgRynDtQcf5I6JwONKivkyhP6DizUFKHk.jpg?auto=webp&s=a60eb36e7fe876f9adeca28a99953ca16d34b004)
+}
+
+
+
+.topnav{
     background-color: #333;
     overflow: hidden;
 }
@@ -21,4 +27,8 @@
 .topnav a.active{
     background-color: #4CAF50;
     color: white;
+}
+
+h1{
+    color:white;
 }
