@@ -25,7 +25,8 @@
 }
 
 .topnav a.active{
-    background-color: #0000ffff;
+    background-color: #9eaf9c;
+    opacity: 0;
     color: white;
    
 }
