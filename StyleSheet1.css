@@ -31,9 +31,10 @@
    
 }
 
-img {
-    float: right;
-    color: #9eaf9c;
-    height: 17px;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
